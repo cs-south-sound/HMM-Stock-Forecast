@@ -13,7 +13,7 @@ packages = [
 [tool.poetry.dependencies]
 python = "^3.8"
 Cython = "0.29.34"
-pomegranate = "^0.14.8"
+pomegranate = "^0.15.0"
 numpy = "^1.22.1"
 matplotlib = "^3.5.1"
 recordclass = "^0.17.1"
