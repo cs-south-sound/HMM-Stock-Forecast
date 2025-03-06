@@ -78,5 +78,5 @@ Install dependencies defined in pyproject.toml
 ## Test the installation
 ```bash
 cd ~/HMM-Stock-Forecast/hmm_stock_forecast
-python3 -m main.py -s 2019-01-01 -e 2022-01-01 -t SPY -w 100
+python3 -m main -s 2019-01-01 -e 2022-01-01 -t SPY -w 100
 ```
